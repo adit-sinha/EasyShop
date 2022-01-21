@@ -49,123 +49,81 @@ We have used many different python concepts in our project, some of which had be
 
 ## Output Screens
 Screen 1: First Screen, allows user to register a new user or go to Login page
+
 ![Screen 1 Image](screen1.png)
+
 Screen 2: Screen if user enters a username already present
- 
 
-
-
+![Screen 2 Image](screen2.png)
 
 Screen 3: Login Page; user logs into their EasyShop account
+
+![Screen 3 Image](screen3.png)
  
 Screen 4: Screen if user’s login credentials are incorrect
- 
 
-
-
-
-
-
-
+![Screen 4 Image](screen4.png)
 
 Screen 5: Home Page, allows user to contact support, continue shopping or proceed to cart
- 
+
+![Screen 5 Image](screen5.png)
+
 Screen 6: Screen if user tries to proceed to cart without buying any items
- 
 
-
+![Screen 6 Image](screen6.png)
 
 Screen 7: Contact Page (accessed if ‘Contact Support’ button pressed
- 
+
+![Screen 7 Image](screen7.png) 
+
 > Pressing ‘Back’ button takes them to screen 5
 Screen 8 and 9: Screen to make choices for shopping
- 
 
- 
+![Screen 8 Image](screen8.png)
 
-
-
-
-
-
-
-
+![Screen 9 Image](screen9.png)
 
 Screen 10: Screen if continue pressed without making all 3 choices
- 
 
-
-
-
-
-
-
-
-
+![Screen 10 Image](screen10.png)
 
 Screen 11: Shopping Page 
- 
 
-
-
-
-
-
-
-
-
-
-
+![Screen 11 Image](screen11.png)
 
 Screen 12 and 13: Shopping Page screen if list of clothes available finished
  
+![Screen 12 Image](screen12.png) 
+
+![Screen 13 Image](screen13.png)
  
 Screen 14: Shopping Page if item added to cart (thrice)
  
-	When ‘Return to home’ button is pressed, goes back to Screen 5
-	When ‘Proceed to Cart’ button is pressed, goes to Screen 15
+![Screen 14 Image](screen14.png)
 
-
-
-
-
-
-
-
-
-
+> When ‘Return to home’ button is pressed, goes back to Screen 5
+> When ‘Proceed to Cart’ button is pressed, goes to Screen 15
 
 Screen 15: Checkout Page 
- 
-	Pressing ‘Shop More’ goes to screen 5
-	Pressing ‘Proceed to pay’ goes to screen 17
 
+![Screen 15 Image](screen15.png)
 
-
-
-
+> Pressing ‘Shop More’ goes to screen 5
+> Pressing ‘Proceed to pay’ goes to screen 17
 
 Screen 16: Checkout Page after a user buys another item after making choice
  
-
-
-
-
-
-
+![Screen 16 Image](screen16.png)
 
 Screen 17: Final Screen; Thank you Page
  
-
-	
-
-
+![Screen 17 Image](screen17.png)
 
 ## Limitations and Future Scope
 We are planning to add many new features as we progress with our project. The limitations and future scope of our application are huge. 
-•	Instead of manually and laboriously copying and pasting URLs into our files to use them, we are planning to use web scraping which will automatically do it for us. This will increase the amount of clothes at our “shop” and make it much easier for us. 
-•	We are also planning on adding a delete to items in the cart so that the person can go back on his choice if, by mistake, he has chosen the wrong one. 
-•	Another idea that we are planning to implement is a price estimate. Currently in our project we have rigid price ranges which do not have a lot of variability, however we are planning to implement an input to take the price and offer clothes around that price range to the user.
+- Instead of manually and laboriously copying and pasting URLs into our files to use them, we are planning to use web scraping which will automatically do it for us. This will increase the amount of clothes at our “shop” and make it much easier for us. 
+- We are also planning on adding a delete to items in the cart so that the person can go back on his choice if, by mistake, he has chosen the wrong one. 
+- Another idea that we are planning to implement is a price estimate. Currently in our project we have rigid price ranges which do not have a lot of variability, however we are planning to implement an input to take the price and offer clothes around that price range to the user.
 
 ## Bibliography 
 1. https://www.geeksforgeeks.org/python-gui-tkinter/
