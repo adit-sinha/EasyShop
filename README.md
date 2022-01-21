@@ -46,6 +46,7 @@ We have used many different python concepts in our project, some of which had be
 4. Must also have the images used in program on their system (eg. the easy shop logo)
 5. All files(python and data) and images must be in the same directory(folder)
 6. NOTE: **All image links in the .txt files belong to https://www.myntra.com/. They are only being used in our program for educational purposes only.**
+7. To run the program, 'LoginInterface.py' must be run.
 
 
 ## Output Screens
