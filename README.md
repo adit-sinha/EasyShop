@@ -1,20 +1,15 @@
-# EasyShop-User-Interface
-Welcome to the EasyShop User Interface! This program fetches images from urls as per choices of clothes made by you and displays them in a Tk() window!
+# Tkinter Shopping Simplifier
+Welcome to the Tkinter Shopping Simplifier! This program fetches images from urls as per choices of clothes made by you and displays them in a Tk() window!
 
 Made by Adit Sinha, Ekhnoor Grover and Ahaan Bohra
 
 ## Project Overview
-EasyShop User Interface is a shopping program we created for people who want to buy specific cloth wear.
+The Tkinter Shopping Simplifier is a shopping program we created for people who want to buy specific cloth wear.
 They start by logging into the interface, if it is their first time using it then they must register.
 We provide certain choices through which they can get to what they want faster.
 Using the ‘Tkinter’ module and ‘PIL’ module we managed to display images of the clothing options for the user.
 They can choose the clothes they would like to add to the cart and finally checkout.
 We hope to work more and improve upon this shopping interface.
-
-## Acknowledgments
-We would like to express our special thanks of gratitude to our computer science teacher, Paulina Singh ma’am who helped us develop and expand this project (EasyShop Login Interface) through her suggestions and teachings. She constantly advised us and assisted wherever we needed help, allowing us to produce this project.
-
-Secondly, we would also like to thank our senior Arjun Sodhi [12-D] who helped us understand some concepts of Tkinter and fixes a minor error in the code.
 
 
 ## Python Concepts Used
