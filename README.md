@@ -22,12 +22,13 @@ We hope to work more and improve upon this shopping interface.
 7. ‘Tkinter’ module:
 8. ‘PIL’ module:
 9. ‘urllib’ module:
+
 We have used many different python concepts in our project, some of which had been taught to us in class and some others which we had to find out and research by ourselves:
-•	We used lists numerous times to store data as it is a very useful and popular data structure to hold organised data
-•	 We used many user defined functions with appropriate names so the Code is readable by anyone and it is well organised
-•	We also made use of file handling which is primarily next year's course, however we used it here so that we can combine the different aspects of the project into one. 
-•	The ‘Tkinter’ module is one thing which will not be taught to us in school. It is a module to make a relatively simple general user interface, and we applied it to every part of our project.
-•	We also experimented with the PIL and urllib module in python in order to get the image from the link and portray it in the Tk window.
+- We used lists numerous times to store data as it is a very useful and popular data structure to hold organised data
+- We used many user defined functions with appropriate names so the Code is readable by anyone and it is well organised
+- We also made use of file handling which is primarily next year's course, however we used it here so that we can combine the different aspects of the project into one. 
+- The ‘Tkinter’ module is one thing which will not be taught to us in school. It is a module to make a relatively simple general user interface, and we applied it to every part of our project.
+- We also experimented with the PIL and urllib module in python in order to get the image from the link and portray it in the Tk window.
 
 
 
