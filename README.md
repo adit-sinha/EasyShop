@@ -42,7 +42,7 @@ We have used many different python concepts in our project, some of which had be
 3. Must have the data files(‘MenTopwear.txt', ‘MenBottomwear.txt’, ‘MenFootwear.txt’, ‘WomenTopwear.txt', ‘WomenBottomwear.txt’, ‘WomenFootwear.txt’, ‘KidsTopwear.txt’, ‘KidsBottomwear.txt’ and ‘KidsFootwear.txt'), in their system.
 4. Must also have the images used in program on their system (eg. the easy shop logo)
 5. All files(python and data) and images must be in the same directory(folder)
-6. NOTE: **All image links in the .txt files belong to https://www.myntra.com/. They are only being used in our program for educational purposes only.**
+6. NOTE: **All image links in the .txt files belong to https://www.myntra.com/. They are only being used in our program for educational purposes only. Images used for buttons belong to http://shutterstock.com/.**
 7. To run the program, 'LoginInterface.py' must be run.
 
 
