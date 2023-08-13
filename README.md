@@ -1,15 +1,17 @@
 # Tkinter Shopping Simplifier
 Welcome to the Tkinter Shopping Simplifier! This program fetches images from urls as per choices of clothes made by you and displays them in a Tk() window!
 
-Made by Adit Sinha, Ekhnoor Grover and Ahaan Bohra
+Made by [@Adit Sinha](https://github.com/adit-sinha), [@Ekhnoor Grover](https://github.com/Noor-G) and Ahaan Bohra.
 
 ## Project Overview
-The Tkinter Shopping Simplifier is a shopping program we created for people who want to buy specific cloth wear.
-They start by logging into the interface, if it is their first time using it then they must register.
-We provide certain choices through which they can get to what they want faster.
-Using the ‘Tkinter’ module and ‘PIL’ module we managed to display images of the clothing options for the user.
-They can choose the clothes they would like to add to the cart and finally checkout.
-We hope to work more and improve upon this shopping interface.
+EasyShop is a shopping interface we created for people who want to buy specific cloth wear and to provide shopkeepers with a shopping model that requires minimal labour. Such models are now in use in some enterprises such as Decathlon. 
+
+They start by logging into the interface, if it is their first time using it then they must register. When a user registers, an SQL table based on their unique username is created to store their cart. Returning users can directly access their cart and add more cloth articles to their cart. However, if the cart is empty, the user is requested to shop first. If the user has any queries there is a
+contact support page in which they can ask their query via Whatsapp or Mail. We provide certain choices through which they can get to what they want faster.
+
+Using the ‘Tkinter’ module and ‘PIL’ module we managed to display images of the clothing options for the user. They can choose the clothes they would like to add to the cart. At the checkout page they can view the final summary and then checkout. We also allow the shopkeeper or administrator to view the last purchase made by a user using a MySQL table. It also details them on the date and time it was issued.
+
+NOTE: All image links in the .txt files belong to https://www.myntra.com/. They are being used in our program for educational purposes only. Images used for buttons belong to http://shutterstock.com/.
 
 
 ## Python Concepts Used
