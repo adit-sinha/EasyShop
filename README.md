@@ -1,7 +1,11 @@
 # Tkinter Shopping Simplifier
 Welcome to the Tkinter Shopping Simplifier! This program fetches images from urls as per choices of clothes made by you and displays them in a Tk() window!
 
-Made by [@Adit Sinha](https://github.com/adit-sinha), [@Ekhnoor Grover](https://github.com/Noor-G) and Ahaan Bohra.
+Made by [@Adit Sinha](https://github.com/adit-sinha), [@Ekhnoor Grover](https://github.com/Noor-G), [@Dhruv Rawal](https://github.com/M3-MZ) and Ahaan Bohra.
+
+## Accolades
+- Silico Battles (2022-23): 2nd Prize (Hackathon)
+Note: This project, which previously only used data file handling, was merged with a separate project made at the hackathon which used database management.
 
 ## Project Overview
 EasyShop is a shopping interface we created for people who want to buy specific cloth wear and to provide shopkeepers with a shopping model that requires minimal labour. Such models are now in use in some enterprises such as Decathlon. 
