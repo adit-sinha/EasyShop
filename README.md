@@ -135,7 +135,9 @@ Screen 15: Checkout Page
 
 Moreover, the ‘lastpurch’ table does the following: 
 If the user has never made a purchase before, the latest record is inserted into it:
+
 ![Screen 15.1](/mdscreens/screen15.1.png)
+
 However, if the user has made a purchase before, the latest record is
 updated accordingly (The user 'Adit' is updated): 
 
