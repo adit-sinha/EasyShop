@@ -142,6 +142,7 @@ However, if the user has made a purchase before, the latest record is
 updated accordingly (The user 'Adit' is updated): 
 
 ![Screen 15.2](/mdscreens/screen15.2.png)
+
 Screen 16: Checkout Page after a user buys another item after making choice
 
 ![Screen 16 Image](/mdscreens/screen16.png)
